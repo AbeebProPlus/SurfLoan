@@ -1,6 +1,6 @@
 # Loan Application System
 
-The Loan Application System is a web-based application that allows loan officers and customers to manage and track loan applications. It provides a user-friendly interface for loan officers to review and manage loan applications, and for customers to apply for loans and track their application status. The system incorporates Spring Security JWT for user authentication and authorization.
+The Loan Application System is a web-based application that allows loan officers and customers to manage and track loan applications. The system incorporates Spring Security JWT for user authentication and authorization.
 
 ## Features
 
